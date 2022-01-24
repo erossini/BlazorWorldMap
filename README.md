@@ -1,4 +1,4 @@
 # BlazorWorldMap
 World Map for Blazor
 
-![image](https://user-images.githubusercontent.com/9497415/150774165-399f117d-d433-4784-8e8c-b0441dbfb7ce.png)
+![image](https://user-images.githubusercontent.com/9497415/150774328-82a1e5a2-5f1a-46f4-924f-d8c28058ec92.png)
