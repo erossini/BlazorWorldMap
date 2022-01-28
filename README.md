@@ -2,6 +2,8 @@
 This component shows a map for using it with [Blazor WebAssembly](https://www.puresourcecode.com/tag/blazor-webassembly/) and [Blazor Server](https://www.puresourcecode.com/tag/blazor-server/). The components is build with .NET6.
 The map is build with [jqvmap](https://github.com/10bestdesign/jqvmap). `jquery` is required.
 
+Now, usually in connection with the map, we want to display flags or icons. For that, you can use other my component that allows you to use [SVG image for icons and flags](https://www.puresourcecode.com/dotnet/blazor/svg-icons-and-flags-for-blazor/).
+
 ## Installation
 Fist, you have to add the component from NuGet. Then, open your `index.html` or `_Host` and add at the end of the page the following scripts:
 
